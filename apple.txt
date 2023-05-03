@@ -1,0 +1,4 @@
+swcdn.apple.com
+swdownload.apple.com
+updates-http.cdn-apple.com
+oscdn.apple.com
