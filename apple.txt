@@ -2,3 +2,6 @@ swcdn.apple.com
 swdownload.apple.com
 updates-http.cdn-apple.com
 oscdn.apple.com
+*.swu-apple.com.akadns.net
+updates-http.g.aaplimg.com
+swcdn.g.aaplimg.com
